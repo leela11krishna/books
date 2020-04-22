@@ -1,0 +1,10 @@
+com\learning\spring\dao\BookDao.class
+com\learning\spring\controller\BookController.class
+com\learning\spring\service\BookService.class
+com\learning\spring\config\HibernateUtil.class
+com\learning\spring\service\BookServiceImp.class
+com\learning\spring\config\AppConfig.class
+com\learning\spring\dao\BookDaoImp.class
+com\learning\spring\config\WebConfig.class
+com\learning\spring\config\MyWebAppInitializer.class
+com\learning\spring\model\Book.class
